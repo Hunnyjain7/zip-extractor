@@ -11,4 +11,4 @@
 * To Solve this problem i took a recursive approach.
 -- Itrating over a directory and then using recursion by calling the same function to agiain itrate over directory, this will take us deep to the directory and identify a zip to extract it.
 
-#DSA # Recursion
+#DSA #Recursion
